@@ -1,0 +1,3 @@
+{
+	"/write":{"controller":"Writer","action":"write"}
+}

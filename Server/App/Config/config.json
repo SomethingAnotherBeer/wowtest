@@ -1,0 +1,11 @@
+{
+	"db":{
+		"host":"localhost",
+		"dbname":"gamedb",
+		"user":"root",
+		"password":""
+	},
+	"patches":{
+		"routes":"App/Routes/routes.json"
+	}
+}
